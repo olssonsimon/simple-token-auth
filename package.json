@@ -1,0 +1,25 @@
+{
+  "name": "simple-token-auth",
+  "version": "1.0.0",
+  "description": "The simplest of token based authentication",
+  "main": "auth.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "simple",
+    "token",
+    "auth",
+    "authentication"
+  ],
+  "author": "Simon Olsson",
+  "license": "MIT",
+  "reposityor": {
+    "type": "git",
+    "url": "https://github.com/olssonsimon/simple-token-auth"
+  },
+  "homepage": "https://github.com/olssonsimon/simple-token-auth",
+  "bugs": {
+    "url": "https://github.com/olssonsimon/simple-token-auth/issues"
+  }
+}
