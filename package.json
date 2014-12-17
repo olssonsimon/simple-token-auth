@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "The simplest of token based authentication",
   "main": "auth.js",
-  "scripts": {
-    "test": "npm test"
-  },
   "keywords": [
     "simple",
     "token",
