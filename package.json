@@ -11,7 +11,7 @@
   ],
   "author": "Simon Olsson",
   "license": "MIT",
-  "reposityor": {
+  "repository": {
     "type": "git",
     "url": "https://github.com/olssonsimon/simple-token-auth"
   },
