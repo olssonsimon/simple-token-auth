@@ -16,6 +16,6 @@ var Auth = function(token) {
   return this;
 }
 
-module.exports.init_with_token() = function(token) {
+module.exports.init_with_token = function(token) {
   return new Auth(token);
 }
